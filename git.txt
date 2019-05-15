@@ -1,1 +1,2 @@
 this is git project
+insert into one branch
